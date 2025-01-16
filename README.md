@@ -1,0 +1,1 @@
+This repository contains a Java program that exhibits an uncommon code error. The program uses a `while` loop with a `continue` statement, leading to an unexpected behavior in the loop counter.  The solution demonstrates how to correct the issue and achieve the intended loop behavior.
